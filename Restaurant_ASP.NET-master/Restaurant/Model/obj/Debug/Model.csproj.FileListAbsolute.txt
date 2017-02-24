@@ -1,0 +1,15 @@
+c:\users\student\documents\visual studio 2012\Projects\MySolution\Model\bin\Debug\Model.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\Model\bin\Debug\Model.pdb
+c:\users\student\documents\visual studio 2012\Projects\MySolution\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\MySolution\Model\obj\Debug\Model.dll
+c:\users\student\documents\visual studio 2012\Projects\MySolution\Model\obj\Debug\Model.pdb
+E:\徐强法(三层架构)\Model\bin\Debug\Model.dll
+E:\徐强法(三层架构)\Model\bin\Debug\Model.pdb
+E:\徐强法(三层架构)\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\徐强法(三层架构)\Model\obj\Debug\Model.dll
+E:\徐强法(三层架构)\Model\obj\Debug\Model.pdb
+E:\软件工程实训\副本\项目\Restaurant\Model\bin\Debug\Model.dll
+E:\软件工程实训\副本\项目\Restaurant\Model\bin\Debug\Model.pdb
+E:\软件工程实训\副本\项目\Restaurant\Model\obj\Debug\Model.dll
+E:\软件工程实训\副本\项目\Restaurant\Model\obj\Debug\Model.pdb
+E:\软件工程实训\副本\项目\Restaurant\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
